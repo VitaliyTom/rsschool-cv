@@ -39,7 +39,7 @@
 
 ## **Developing experience**
 
-**Application "Animals" was made within the java course in  [\<TeachMeSkills\/\>](https://teachmeskills.by/), January - June 2019**
+**Application "Animals" was made within the java course in  [TeachMeSkills](https://teachmeskills.by/), January - June 2019**
 * ["Animals" on GitHub](https://github.com/VitaliyTom/animals)
 * ["Animals" on the home linux-server](http://93.125.1.133:88/animal/) 
 
@@ -53,7 +53,7 @@
 1. **2005 - 2008**  
 	- 3 years of study at the institute, University of civil protection
 1. **March - September 2018** 
-	- Java SE / Java EE in the programming school **[\<TeachMeSkills\/\>](https://teachmeskills.by/)**
+	- Java SE / Java EE in the programming school **[TeachMeSkills](https://teachmeskills.by/)**
 
 #### Foreign	languages level:
 
