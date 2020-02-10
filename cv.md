@@ -1,6 +1,6 @@
 # VITALIY TAMASHEVICH
 ![](https://avatars0.githubusercontent.com/u/39959686?s=400&v=4)
-> Junior software developer
+> Junior software developer  
 ***
 ## Summary
 * Responsible, logical thinking, hardworking and able to make decisions. 
@@ -21,7 +21,7 @@
     - Apache Tomcat
     - Git, GitHub
     - linux
-#### 2. Novice: 
+#### 2. Novice:   
     - jQuery
     - Ajax
     - HTML
