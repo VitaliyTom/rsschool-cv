@@ -8,7 +8,7 @@
 * Currently looking for a software developer opportunity to change carrier and have a new work experience alongside an expert team of developers. 
 * Thereby helping to achieve required skills for developing carrier and make best use of my existing skills.
 
-##  Skills and competencies  
+## Skills and competencies
 
 
 ## **Technologies, Tools and Frameworks:**
