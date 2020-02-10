@@ -21,7 +21,7 @@
     - Apache Tomcat
     - Git, GitHub
     - linux
-### 2. Novice: 
+#### 2. Novice: 
     - jQuery
     - Ajax
     - HTML
