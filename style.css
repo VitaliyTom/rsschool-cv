@@ -413,5 +413,10 @@ ol {
   font-weight: bold;
   color: #fefffe;
   background: rgb(0, 187, 9);
-  padding: 4px;
+  padding: 2px;
 }
+
+.portfolio_list,
+.content {
+  margin-left: 40px;
+
