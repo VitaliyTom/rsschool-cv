@@ -2,7 +2,7 @@ export const result = {
   js: {
     jsContent: `<div class="wrapper_calendar">
   <div class="calendar"></div>
-  <p class="date">February - July 2020</p>
+  <p class="date">02.2020 - 07.2020</p>
 </div>
 <li class="developing-li">Projects RS school:
   <ul class="developing-ul">
@@ -47,7 +47,7 @@ export const result = {
   java: {
     javaContent: `<div class="wrapper_calendar">
   <div class="calendar"></div>
-  <p class="date">January - June 2019</p>
+  <p class="date">12.2018 - 06.2019</p>
 </div>
 <li class="developing-li">Application "Animals" was made within the java course in <a
       href="https://teachmeskills.by/">&lt;TeachMeSkills/&gt;</a>
