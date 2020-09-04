@@ -3,6 +3,7 @@ export const contentPortfolio = {
     jsContent: `<div class="wrapper_calendar">
     <div class="calendar"></div>
     <p class="date">02.2020 - 07.2020</p>
+
 </div>
 <li class="developing-li">
     <span class="course">Projects RS school:</span>
@@ -47,6 +48,7 @@ export const contentPortfolio = {
     javaContent: `<div class="wrapper_calendar">
     <div class="calendar"></div>
     <p class="date">12.2018 - 06.2019</p>
+
 </div>
 <li class="developing-li">
     <span class="course">

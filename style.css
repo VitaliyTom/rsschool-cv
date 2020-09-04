@@ -625,4 +625,10 @@ ol {
 
 .skills_MySQL::before {
   background-image: url("./img/mysql.svg");
+
 }
+
+.portfolio_list,
+.content {
+  margin-left: 40px;
+
